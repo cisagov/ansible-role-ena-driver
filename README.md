@@ -1,7 +1,13 @@
 # ansible-role-ena-driver #
 
+<<<<<<< HEAD
 [![GitHub Build Status](https://github.com/cisagov/ansible-role-ena-driver/workflows/build/badge.svg)](https://github.com/cisagov/ansible-role-ena-driver/actions)
 [![CodeQL](https://github.com/cisagov/ansible-role-ena-driver/workflows/CodeQL/badge.svg)](https://github.com/cisagov/ansible-role-ena-driver/actions/workflows/codeql-analysis.yml)
+=======
+[![GitHub Build Status](https://github.com/cisagov/skeleton-ansible-role/workflows/build/badge.svg)](https://github.com/cisagov/skeleton-ansible-role/actions)
+[![License](https://img.shields.io/github/license/cisagov/skeleton-ansible-role)](https://spdx.org/licenses/)
+[![CodeQL](https://github.com/cisagov/skeleton-ansible-role/workflows/CodeQL/badge.svg)](https://github.com/cisagov/skeleton-ansible-role/actions/workflows/codeql-analysis.yml)
+>>>>>>> f3dbc58b1a01bf2e814cac35b6afb12980887463
 
 This is a skeleton project that can be used to quickly get a new
 [cisagov](https://github.com/cisagov) Ansible role GitHub project
@@ -21,7 +27,7 @@ None.
 
 <!--
 | Variable | Description | Default | Required |
-|----------|-------------|---------|----------|
+| -------- | ----------- | ------- | -------- |
 | optional_variable | Describe its purpose. | `default_value` | No |
 | required_variable | Describe its purpose. | n/a | Yes |
 -->

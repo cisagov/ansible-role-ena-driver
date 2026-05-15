@@ -29,17 +29,18 @@ galaxy_info:
         - bullseye
         - bookworm
         - trixie
+        - forky
     - name: Fedora
       versions:
-        - "39"
-        - "40"
+        - "42"
+        - "43"
     - name: Kali
       versions:
         - "2023"
     - name: Ubuntu
       versions:
-        - focal
         - jammy
         - noble
+        - resolute
   role_name: skeleton
   standalone: true
